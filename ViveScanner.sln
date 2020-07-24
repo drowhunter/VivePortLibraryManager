@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViveScannerExample", "ViveScannerExample\ViveScannerExample.csproj", "{60423CA7-DE76-4587-B565-F13A7E7117D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivePortLibraryScanner.Core", "VivePortLibraryScannerCore\VivePortLibraryScanner.Core.csproj", "{D6E818C3-0718-4FA5-930E-181154A9E3FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60423CA7-DE76-4587-B565-F13A7E7117D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60423CA7-DE76-4587-B565-F13A7E7117D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60423CA7-DE76-4587-B565-F13A7E7117D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60423CA7-DE76-4587-B565-F13A7E7117D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E818C3-0718-4FA5-930E-181154A9E3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E818C3-0718-4FA5-930E-181154A9E3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E818C3-0718-4FA5-930E-181154A9E3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E818C3-0718-4FA5-930E-181154A9E3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {739DA5AC-E04F-407F-9ACA-F67E0124F0FB}
+	EndGlobalSection
+EndGlobal
